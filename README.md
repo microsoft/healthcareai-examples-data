@@ -64,6 +64,14 @@ git lfs pull
 
 This will download all the large files that were previously stored as LFS pointers.
 
+## Data Attribution
+
+- **TCGA-GBM**  
+  Scarpace, L., Mikkelsen, T., Cha, S., Rao, S., Tekchandani, S., Gutman, D., Saltz, J. H., Erickson, B. J., Pedano, N., Flanders, A. E., Barnholtz-Sloan, J., Ostrom, Q., Barboriak, D., & Pierce, L. J. (2016). *The Cancer Genome Atlas Glioblastoma Multiforme Collection (TCGA-GBM)* (Version 5) [Data set]. The Cancer Imaging Archive. <https://doi.org/10.7937/K9/TCIA.2016.RNYFUYE9>
+
+- **TCGA-LGG**  
+  Pedano, N., Flanders, A. E., Scarpace, L., Mikkelsen, T., Eschbacher, J. M., Hermes, B., Sisneros, V., Barnholtz-Sloan, J., & Ostrom, Q. (2016). *The Cancer Genome Atlas Low Grade Glioma Collection (TCGA-LGG)* (Version 3) [Data set]. The Cancer Imaging Archive. <https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK>
+
 ## License
 
 See [LICENSE](LICENSE) file for details.
